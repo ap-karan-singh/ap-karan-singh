@@ -1,4 +1,4 @@
-![logo](https://github.com/Karankumar80/Karankumar80/blob/main/Purple%20and%20Blue%20Neon%20%20Gamer%20%20Youtube%20Banner.gif)
+![logo](https://github.com/Karankumar80/Karankumar80/blob/main/Purple.gif)
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">Data Science Enthusiast at Indian Institute Technology (Madras)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3853194/gamer.gif">
