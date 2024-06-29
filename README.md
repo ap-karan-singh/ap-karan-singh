@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karankumar80" alt="karankumar80" /></a> </p>
 
-- 🔭 I’m currently working on [AI World](https://karankumar80.github.io/AI-World/)
+- 🔭 I’m currently working on [LetSynk](https://letsynk.vercel.app/)
 
 - 🌱 I’m currently learning **Python Programming for Data Science**
 
-- 👯 Previous Project [Weather APP](https://karankumar80.github.io/Weather-APP/)
+- 👯 Previous Project [AI World](https://aiw0rld.netlify.app/)
 
 - 🤝 I’m looking for help with [GitHub Profile Finder](https://karankumar80.github.io/GitHub-Profile-Finder/)
 
