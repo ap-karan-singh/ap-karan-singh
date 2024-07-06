@@ -16,38 +16,37 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/naemazam/HackerRank-Solutions"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
+  <a href="#"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
+  <a href="#"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
+  <a href="#"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/theterminalboy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
+  <a href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
+  <a href="#"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
 </p>
 
 
 <!-- social -->
  <p align="center">
-   <a href="http://naemazam.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
+   <a href="#"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Wechat"><img width="32px" src="./img/wechat.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/naemazamankon" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
+  <a href="#" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/naemazamchowdhury" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
+  <a href="#" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Douyin"><img width="32px" src="./img/tiktoc.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
   <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
@@ -64,11 +63,11 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 </p>
 
   ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/+1-518--468--2511-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <img  src="https://custom-icon-badges.herokuapp.com/badge/+91-7549263494-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/naemazam/custom-icon-badges?logo=tag&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
- <br>
+  
+
   
 Hi, I'm [Karan Kumar](https://karan.vercel.app/), a passionate self-taught Programmer, an open-source enthusiast, and a maintainer and National level hackathon winner🥇 🇨🇳. My passion for Systems lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
 
